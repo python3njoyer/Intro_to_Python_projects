@@ -1,6 +1,6 @@
 A "magic square" is a matrix of numbers of n x n dimensions whose columns, rows, and diagonals all sum to the same number. For example:
 
-8 1 6 
+8 1 6 \n
 3 5 7 
 4 9 2 
 
