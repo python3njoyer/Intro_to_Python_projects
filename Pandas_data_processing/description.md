@@ -1,1 +1,1 @@
-This program cleans, analyzes, and summarizes a restaurant dataset using the Pandas data processing library. 
+This program cleans, analyzes, and summarizes a restaurant dataset using the Pandas data processing library. It then creates a new csv file to store popular restaurants: located in particular zip codes, with a high rating and number of ratings. 
