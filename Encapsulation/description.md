@@ -1,0 +1,1 @@
+This program demonstrates the concept of encapsulation used in Object Oriented Programming (OOP). This method restricts direct access to the object; a method must be called in order to retrieve the data.
